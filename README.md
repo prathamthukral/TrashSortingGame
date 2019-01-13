@@ -1,4 +1,4 @@
-# python-game
+# TrashSortingGame
 Python "falling objects" Game. As trash falls from the sky the user must click on the image and decide whether it is "recyclable" or "garbage" and sort the trash with the arrow keys, but don't sort wrong or let the trash fall off the screen, or you will lose lives!
 When the user clicks an image, that image only stops on the screen and waits for the user to press "right" or "left".
 After a keyboard-input is detected the object's X-coordinate will increase/decrease rather than moving in the y-direction(up and down).
